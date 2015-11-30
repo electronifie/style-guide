@@ -1,3 +1,6 @@
 {
+  "name": "style-guide",
+  "description": "Electronifie's code style checks.",
+  "dependencies": [],
   "styleScripts": "."
 }
